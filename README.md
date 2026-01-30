@@ -1,27 +1,175 @@
-<h1 align="center">Hi 👋, I'm Abdul Rehman</h1>
-<h3 align="center">I’m a Full-Stack AI Engineer with over 4+ years of experience creating scalable, high-impact products. I’ve worked closely with early-stage startups to build solutions from the ground up, helping them grow their user bases from zero to thousands. At the same time, I’ve collaborated with larger, established brands to develop modern, efficient systems that drive real business value. I’m passionate about combining technology and creativity to solve complex problems and deliver products that truly make a difference.</h3>
+# 👋 Hi, I’m Abdul Rehman
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rehmankk360&label=Profile%20views&color=0e75b6&style=flat" alt="rehmankk360" /> </p>
+**Full-Stack AI Engineer**  
+📍 Islamabad, Pakistan  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehmankk360" alt="rehmankk360" /></a> </p>
+🌐 [rehmandev.work](https://rehmandev.work)  
+📧 rehmanworks247@gmail.com  
+🔗 [GitHub](https://github.com/Rehmankk360) · [LinkedIn](https://linkedin.com/in/rehman-khan-826204223)
 
-- 👨‍💻 All of my projects are available at [https://rehmandev.work](https://rehmandev.work)
+---
 
-- 📫 How to reach me **rehmanworks247@gmail.com**
+## 🚀 About Me
 
-- 📄 Know about my experiences [https://d1ym9o12hswdsg.cloudfront.net/rehman_resume.pdf](https://d1ym9o12hswdsg.cloudfront.net/rehman_resume.pdf)
+I’m a **Full-Stack AI Engineer with 4+ years of experience** building scalable, high-impact products for startups and established companies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://rehmandev.work/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://rehmandev.work/" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rehman-khan-826204223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rehman-khan-826204223/" height="30" width="40" /></a>
+I specialize in:
+- Taking products **from zero → thousands of users**
+- Designing **high-performance, scalable systems**
+- Building **AI-powered features** using LLMs, RAG, and vector databases
+- Optimizing **cloud costs, performance, and reliability**
+
+I believe in shipping **clean architecture, measurable impact, and real business value**.
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
+`TypeScript` · `JavaScript` · `Python` · `C#` · `C++`
+
+### 🎨 Frontend
+`React.js` · `Next.js` · `React Native` · `Material-UI` · `Tailwind CSS` · `Three.js` · `SingleSPA`
+
+### ⚙️ Backend
+`Node.js` · `Nest.js` · `Express.js` · `.NET Core` · `GraphQL` · `REST APIs` · `Prisma ORM`
+
+### 🤖 AI / ML
+`LLMs` · `LangChain` · `RAG (Retrieval-Augmented Generation)`  
+`Vector Databases` · `Prompt Engineering`  
+`TensorFlow` · `Scikit-Learn` · `Reinforcement Learning`
+
+### 🏗 System Design & Databases
+`Microservices` · `Distributed Systems`  
+`PostgreSQL` · `MySQL` · `Redis` · `RabbitMQ` · `Firebase`
+
+### ☁️ Cloud & DevOps
+`AWS (EC2, S3, Lambda, IAM, CloudWatch)`  
+`Docker` · `Kubernetes` · `CI/CD` · `Git`  
+`Observability & Monitoring` · `Security (JWT, OAuth)`
+
+### 🔗 Web3 & FinTech
+`Solidity` · `EVM Smart Contracts`  
+`Wallet Integrations` · `On-chain / Off-chain Data`  
+`Stripe Payments`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rehmankk360&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehmankk360&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehmankk360&show_icons=true&locale=en&layout=compact" alt="rehmankk360" /></p>
+## 🔥 Contribution Streak
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehmankk360&show_icons=true&locale=en" alt="rehmankk360" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Rehmankk360&theme=tokyonight&hide_border=true"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehmankk360&" alt="rehmankk360" /></p>
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rehmankk360&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rehmankk360&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 💼 Experience
+
+### **iPlex — Full-Stack Engineer**  
+*Aug 2024 – Jan 2026 | Pakistan*
+
+- Reduced **AWS costs by 50%** via optimized caching & architecture
+- Improved app performance by **70%**, boosting conversion rates
+- Built **AI-powered features** using LLMs, LangChain, and RAG
+- Designed scalable AI inference pipelines with Redis & serverless
+- Increased repeat client contracts by **40%**
+- Accelerated delivery speed by **30%**
+
+**Tech:** Python, React, TypeScript, C#, .NET Core, LangChain, Vector DBs, Node.js, Nest.js, Prisma, PostgreSQL, Redis, RabbitMQ, AWS, Playwright, Jest
+
+---
+
+### **Hone — Full-Stack Developer**  
+*Mar 2023 – Aug 2024 | United Kingdom*
+
+- Optimized CPU, GPU & memory-intensive applications
+- Improved gaming performance (**+25% FPS**, reduced lag)
+- Increased backend processing speed by **50%**
+- Reduced multiplayer latency by **15%**
+
+**Tech:** Python, C++, Flask, React, Nest.js, Firebase, AWS, PostgreSQL
+
+---
+
+### **Bondex — Frontend Developer**  
+*Sep 2022 – Apr 2023 | United States*
+
+- Scaled platform to **1.2M+ users**
+- Designed **micro-frontend architecture**
+- Improved onboarding speed by **35%** via secure KYC
+- Reduced latency by **30%**
+- Built Web3 wallet & payment integrations
+
+**Tech:** TypeScript, React, React Native, GraphQL, SingleSPA, Web3, Solidity, AWS
+
+---
+
+### **Vallet Seller — Full-Stack Developer**  
+*Sep 2021 – Jul 2022 | United States*
+
+- End-to-end feature ownership
+- Improved inventory accuracy by **35%**
+- Built dashboards improving decision-making speed by **40%**
+- Automated compliance workflows (**-50% manual effort**)
+
+**Tech:** TypeScript, AngularJS, Node.js, Stripe, AWS
+
+---
+
+## 🧪 Featured Project
+
+### 🧭 Reinforcement Learning Pathfinder AI  
+🌐 **Live:** https://aipathfindingv2.app
+
+- Implemented **Q-Learning & SARSA**
+- Reduced memory usage from **~40GB → ~14MB**
+- Multi-threaded computation with **Web Workers**
+- High-performance Canvas rendering for massive grids
+
+---
+
+## 🎓 Education
+
+**Bachelor’s Degree in Computer Science**  
+Allama Iqbal University  
+*Feb 2020 – Feb 2024*
+
+---
+
+## 📫 Let’s Connect
+
+I’m open to:
+- 🚀 Startup & scale-up roles
+- 🤖 AI-driven product development
+- 🏗 System design & performance optimization
+- 🌍 Remote / global teams
+
+📧 **Email:** rehmanworks247@gmail.com  
+🌐 **Portfolio:** https://rehmandev.work  
+
+⭐ *If you like my work, consider starring a repo or connecting with me.*
