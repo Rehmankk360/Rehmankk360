@@ -4,7 +4,7 @@
 📍 Islamabad, Pakistan  
 
 📧 **Email:** rehmanworks247@gmail.com  
-🌐 **Portfolio:** https://rehmandev.work
+🌐 **Portfolio:** https://rehmandev.work |
 [LinkedIn](https://linkedin.com/in/rehman-khan-826204223)
 
 ---
